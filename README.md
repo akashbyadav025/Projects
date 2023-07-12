@@ -1,7 +1,4 @@
-# data-analytics-Projects
-All my Data analytics Projects
-
-# BusinessCase_Data_Exploration-
+# data-analytics-Projects -- BusinessCase_Data_Exploration-
 Case Studies and EDA Projects
 
 Data Pre-processing
